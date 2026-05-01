@@ -8,11 +8,11 @@ __pycache__/
 .venv/
 venv/
 env/
+.chrome_profile/
 
 # PyInstaller
 build/
 dist/
-*.spec
 
 # IDE
 .vscode/
